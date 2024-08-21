@@ -1,0 +1,15 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node modules (if applicable)
+node_modules/
+
+# Logs
+*.log
+
+# Build output (if applicable)
+/dist
+
+# OneDrive-specific files
+OneDrive/
