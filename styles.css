@@ -74,3 +74,12 @@ form button {
     border: none;
     cursor: pointer;
 }
+
+.profile-photo {
+    width: 160px;
+    height: auto;
+    border-radius: 50%; /* Makes the image circular */
+    display: block;
+    margin: 20px auto; /* Centers the image horizontally */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: adds a soft shadow */
+}
